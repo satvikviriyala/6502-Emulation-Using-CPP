@@ -1,3 +1,5 @@
+<img width="636" alt="Screenshot 2024-06-02 at 10 23 03 PM" src="https://github.com/satvikviriyala/6502-Emulation-Using-CPP/assets/94317660/4878ceff-6c1a-4bfe-96bd-8343525e4933">
+
 The code defines a basic CPU and memory structure, along with functions for fetching, reading, writing, and manipulating data in memory and stack.
 
 Key Components of Code:
@@ -14,3 +16,4 @@ Read/Write Functions: RByte, RWord, WByte, and WWord read and write bytes and wo
 Stack Functions: GetSPAddress, PWtoS, PPCmtoS, PPCptoS, PPCtoS, PBontoS, PBfromS, and PWfromS manipulate the stack. They push and pop data from the stack, which is used for storing temporary values and function call parameters.
 
 main Function: Demonstrates how to use the CPU functions, such as fetching, reading, writing, pushing to stack, and popping from stack.
+
